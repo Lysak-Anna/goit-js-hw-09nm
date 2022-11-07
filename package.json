@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "parcel src/*.html",
+    "build": "parcel build src /*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lysak-Anna/goit-js-hw-09nm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lysak-Anna/goit-js-hw-09nm/issues"
+  },
+  "homepage": "https://github.com/Lysak-Anna/goit-js-hw-09nm#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
