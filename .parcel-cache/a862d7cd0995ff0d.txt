@@ -8,7 +8,7 @@
 70E:\github projects\goit-js-hw-09\node_modules\detect-libc\package.json133123304228572126 0
 59E:\github projects\goit-js-hw-09\src\01-color-switcher.html133123298552934675 0
 72E:\github projects\goit-js-hw-09\node_modules\entities\lib\maps\xml.json133123304245707842 0
-45E:\github projects\goit-js-hw-09\package.json133135313781361759 0
+45E:\github projects\goit-js-hw-09\package.json133135317941983326 0
 83E:\github projects\goit-js-hw-09\node_modules\@parcel\core\test\Environment.test.js133123304261914721 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GN.js133123304271518042 0
 90E:\github projects\goit-js-hw-09\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133123304254652124 0
