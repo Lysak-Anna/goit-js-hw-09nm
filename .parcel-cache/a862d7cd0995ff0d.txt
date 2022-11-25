@@ -12,7 +12,7 @@
 40E:\github projects\goit-js-hw-09\.github133135378673965735 1
 103E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Doxyfile133123304238215540 0
 84E:\github projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\scrollPlugin.js133124015534791426 0
-45E:\github projects\goit-js-hw-09\package.json133138630438992203 0
+45E:\github projects\goit-js-hw-09\package.json133138641611964766 0
 83E:\github projects\goit-js-hw-09\node_modules\@parcel\core\test\Environment.test.js133123304261914721 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\GN.js133123304271518042 0
 90E:\github projects\goit-js-hw-09\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts133123304254652124 0
