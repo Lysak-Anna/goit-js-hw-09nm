@@ -3,11 +3,12 @@ import "flatpickr/dist/flatpickr.min.css";
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import { addLeadingZero, convertMs } from "./functions";
 
-const startButton = document.querySelector('[data-start]');
+
 const daysOfTimer = document.querySelector('[data-days]');
 const hoursOfTimer = document.querySelector('[data-hours]');
 const minutesOfTimer = document.querySelector('[data-minutes]');
 const secondsOfTimer = document.querySelector('[data-seconds]');
+const startButton = document.querySelector('[data-start]');
 startButton.setAttribute('disabled', true);
 startButton.addEventListener('click', startButtonClickHandler);
 
