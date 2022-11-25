@@ -50,7 +50,7 @@ const convertDate = convertMs(timeInMs);
 
 function startButtonClickHandler(event) {
   
-  timerId = setInterval(() => {
+  const timerId = setInterval(() => {
       startButton.setAttribute('disabled', true);
       updateInterface(differenceBetweenDates); 
       differenceBetweenDates -= 1000;

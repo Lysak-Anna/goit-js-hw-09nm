@@ -1,4 +1,4 @@
-4517
+4527
 62E:\github projects\goit-js-hw-09\node_modules\tslib\tslib.html133123304230392358 0
 57E:\github projects\goit-js-hw-09\node_modules\cosmiconfig133123304253879477 1
 81E:\github projects\goit-js-hw-09\node_modules\type-fest\source\tsconfig-json.d.ts133123304255204531 0
@@ -41,7 +41,7 @@
 69E:\github projects\goit-js-hw-09\node_modules\terser\bin\package.json133123304259342385 0
 70E:\github projects\goit-js-hw-09\node_modules\weak-lru-cache\README.md133123304241394746 0
 86E:\github projects\goit-js-hw-09\node_modules\@parcel\diagnostic\test\markdown.test.js133123304236210803 0
-37E:\github projects\goit-js-hw-09\dist133138656906781919 1
+37E:\github projects\goit-js-hw-09\dist133138670359982247 1
 73E:\github projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n\tr.d.ts133124015539172195 0
 84E:\github projects\goit-js-hw-09\node_modules\terser\node_modules\commander\index.js133123304230997190 0
 69E:\github projects\goit-js-hw-09\node_modules\@parcel\optimizer-image133123304262952301 1
@@ -144,10 +144,10 @@
 59E:\github projects\goit-js-hw-09\node_modules\@lezer\common133123304239164917 1
 84E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-sel2.js133123304265692045 0
 65E:\github projects\goit-js-hw-09\node_modules\term-size\readme.md133123304242197099 0
-60E:\github projects\goit-js-hw-09\src\js\01-color-switcher.js133123334816982384 0
+60E:\github projects\goit-js-hw-09\src\js\01-color-switcher.js133138668583745862 0
 67E:\github projects\goit-js-hw-09\node_modules\@parcel\hash\index.js133123304234175550 0
 55E:\github projects\goit-js-hw-09\node_modules\flatpickr133124015536508796 1
-51E:\github projects\goit-js-hw-09\src\js\02-timer.js133138654642418840 0
+51E:\github projects\goit-js-hw-09\src\js\02-timer.js133138666370510605 0
 103E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133123304261141059 0
 73E:\github projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n\th.d.ts133124015539134514 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\DM.js133123304269225079 0
@@ -158,7 +158,7 @@
 66E:\github projects\goit-js-hw-09\node_modules\globals\globals.json133123304233294163 0
 52E:\github projects\goit-js-hw-09\node_modules\@lezer133123304216266103 1
 75E:\github projects\goit-js-hw-09\node_modules\cosmiconfig\dist\loaders.d.ts133123304255214507 0
-54E:\github projects\goit-js-hw-09\src\js\03-promises.js133125986072404234 0
+54E:\github projects\goit-js-hw-09\src\js\03-promises.js133138670357554332 0
 98E:\github projects\goit-js-hw-09\node_modules\@swc\helpers\lib\_object_without_properties_loose.js133123304260690713 0
 82E:\github projects\goit-js-hw-09\node_modules\css-tree\lib\syntax\config\parser.js133123304262702633 0
 87E:\github projects\goit-js-hw-09\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133123304262493188 0
@@ -1340,7 +1340,7 @@
 91E:\github projects\goit-js-hw-09\node_modules\@parcel\reporter-dev-server\src\types.js.flow133123304230947327 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\VU.js133123304279479900 0
 78E:\github projects\goit-js-hw-09\node_modules\msgpackr-extract\src\extract.cpp133123304236760256 0
-72E:\github projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133138656906622329 0
+72E:\github projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133138670359882180 0
 89E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\server-timing.js133123304277755655 0
 72E:\github projects\goit-js-hw-09\node_modules\source-map\source-map.d.ts133123304247818160 0
 75E:\github projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\pl.js133124015534252106 0
@@ -1484,7 +1484,7 @@
 99E:\github projects\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser\dist\index.d.ts133123304239434180 0
 91E:\github projects\goit-js-hw-09\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133123304238016074 0
 97E:\github projects\goit-js-hw-09\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133123304233075381 0
-54E:\github projects\goit-js-hw-09\dist\03-promises.html133138656906502929 0
+54E:\github projects\goit-js-hw-09\dist\03-promises.html133138670359712627 0
 55E:\github projects\goit-js-hw-09\node_modules\lmdb\util133123304263617410 1
 77E:\github projects\goit-js-hw-09\node_modules\@jridgewell\sourcemap-codec\src133123304242466698 1
 89E:\github projects\goit-js-hw-09\node_modules\@parcel\core\lib\requests\PackageRequest.js133123304262582954 0
@@ -1945,6 +1945,7 @@
 104E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133123304230442231 0
 100E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-file-selector-button.js133123304264707015 0
 102E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133123304242047459 0
+71E:\github projects\goit-js-hw-09\dist\01-color-switcher.98b33ad0.js.map133138657300769240 0
 101E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h133123304262772452 0
 103E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\Makefile133123304247025791 0
 100E:\github projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133123304258162629 0
@@ -2624,6 +2625,7 @@
 71E:\github projects\goit-js-hw-09\node_modules\domutils\lib\helpers.d.ts133123304249387765 0
 69E:\github projects\goit-js-hw-09\node_modules\domutils\lib\helpers.js133123304232543965 0
 69E:\github projects\goit-js-hw-09\node_modules\domutils\lib\index.d.ts133123304249804797 0
+68E:\github projects\goit-js-hw-09\dist\01-color-switcher.82c524c0.css133138657300649383 0
 67E:\github projects\goit-js-hw-09\node_modules\domutils\lib\index.js133123304234974801 0
 73E:\github projects\goit-js-hw-09\node_modules\domelementtype\lib\index.js133123304234095765 0
 76E:\github projects\goit-js-hw-09\node_modules\domutils\lib\manipulation.d.ts133123304250867998 0
@@ -2727,6 +2729,7 @@
 69E:\github projects\goit-js-hw-09\node_modules\csso\lib\replace\atrule133123304255204531 1
 83E:\github projects\goit-js-hw-09\node_modules\csso\lib\replace\AttributeSelector.js133123304245133535 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\IE.js133123304272343510 0
+72E:\github projects\goit-js-hw-09\dist\01-color-switcher.82c524c0.css.map133138657300769240 0
 69E:\github projects\goit-js-hw-09\node_modules\csso\lib\replace\Url.js133123304257124539 0
 71E:\github projects\goit-js-hw-09\node_modules\csso\lib\replace\Value.js133123304258023072 0
 89E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\accelerometer.js133123304238145741 0
@@ -2760,7 +2763,7 @@
 84E:\github projects\goit-js-hw-09\node_modules\@parcel\core\src\public\BundleGroup.js133123304257789645 0
 77E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\AW.js133123304258262358 0
 74E:\github projects\goit-js-hw-09\node_modules\@parcel\package-manager\test133123304254761831 1
-67E:\github projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133138656906502929 0
+67E:\github projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133138670359732578 0
 76E:\github projects\goit-js-hw-09\node_modules\css-what\lib\commonjs\parse.js133123304236690445 0
 82E:\github projects\goit-js-hw-09\node_modules\css-what\lib\commonjs\stringify.d.ts133123304251212395 0
 86E:\github projects\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\MediaFeature.js133123304262293723 0
@@ -3348,7 +3351,7 @@
 98E:\github projects\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\package.json133123304262940205 0
 98E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\declarative-shadow-dom.js133123304268917138 0
 84E:\github projects\goit-js-hw-09\node_modules\@parcel\transformer-html\lib\inline.js133123304239194829 0
-63E:\github projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133138656906602631 0
+63E:\github projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133138670359812354 0
 93E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\deviceorientation.js133123304268943879 0
 82E:\github projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\dnssec.js133123304269239404 0
 68E:\github projects\goit-js-hw-09\node_modules\@parcel\css\types.d.ts133123304236021322 0
@@ -3711,7 +3714,7 @@
 85E:\github projects\goit-js-hw-09\node_modules\@swc\helpers\src\_wrap_native_super.mjs133123304264037347 0
 98E:\github projects\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map133123304236190853 0
 89E:\github projects\goit-js-hw-09\node_modules\@parcel\watcher\src\linux\InotifyBackend.hh133123304251641229 0
-65E:\github projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133138656906702362 0
+65E:\github projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133138670359892462 0
 73E:\github projects\goit-js-hw-09\node_modules\@swc\helpers\scripts\gen.sh133123304264067275 0
 79E:\github projects\goit-js-hw-09\node_modules\@swc\helpers\scripts\generator.sh133123304264077246 0
 93E:\github projects\goit-js-hw-09\node_modules\@swc\helpers\lib\_apply_decorated_descriptor.js133123304229285373 0
@@ -4003,6 +4006,7 @@
 82E:\github projects\goit-js-hw-09\node_modules\@parcel\source-map\dist\SourceMap.js133123304246719895 0
 78E:\github projects\goit-js-hw-09\node_modules\@parcel\source-map\dist\types.js133123304247265152 0
 83E:\github projects\goit-js-hw-09\node_modules\@parcel\source-map\dist\types.js.flow133123304233383918 0
+58E:\github projects\goit-js-hw-09\dist\02-timer.eab1aa03.js133138657300669008 0
 83E:\github projects\goit-js-hw-09\node_modules\@parcel\source-map\dist\utils.js.flow133123304235419924 0
 86E:\github projects\goit-js-hw-09\node_modules\@parcel\source-map\dist\wasm-bindings.js133123304248798862 0
 153E:\github projects\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2\subfile.js133123304261815653 0
@@ -4506,13 +4510,19 @@
 57E:\github projects\goit-js-hw-09\node_modules\.bin\terser133123304286099046 0
 61E:\github projects\goit-js-hw-09\node_modules\.bin\terser.cmd133123304286099046 0
 61E:\github projects\goit-js-hw-09\node_modules\.bin\terser.ps1133123304286099046 0
-68E:\github projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133138656906502929 0
-71E:\github projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133138656906622329 0
-60E:\github projects\goit-js-hw-09\dist\01-color-switcher.html133138656906502929 0
-58E:\github projects\goit-js-hw-09\dist\02-timer.f9388f03.js133138656906592711 0
-62E:\github projects\goit-js-hw-09\dist\02-timer.f9388f03.js.map133138656906702362 0
-51E:\github projects\goit-js-hw-09\dist\02-timer.html133138656906502929 0
-61E:\github projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133138656906602631 0
-67E:\github projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133138656906692150 0
-48E:\github projects\goit-js-hw-09\dist\index.html133138656906502929 0
+68E:\github projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133138670359802381 0
+71E:\github projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133138670359812354 0
+67E:\github projects\goit-js-hw-09\dist\01-color-switcher.98b33ad0.js133138657300649383 0
+60E:\github projects\goit-js-hw-09\dist\01-color-switcher.html133138670359772463 0
+58E:\github projects\goit-js-hw-09\dist\02-timer.4c4437bb.js133138657300669008 0
+62E:\github projects\goit-js-hw-09\dist\02-timer.4c4437bb.js.map133138657300877133 0
+62E:\github projects\goit-js-hw-09\dist\02-timer.eab1aa03.js.map133138657301647813 0
+58E:\github projects\goit-js-hw-09\dist\02-timer.f9388f03.js133138670359812354 0
+62E:\github projects\goit-js-hw-09\dist\02-timer.f9388f03.js.map133138670359912090 0
+51E:\github projects\goit-js-hw-09\dist\02-timer.html133138670359712627 0
+61E:\github projects\goit-js-hw-09\dist\03-promises.19b3dd39.js133138657300649383 0
+65E:\github projects\goit-js-hw-09\dist\03-promises.19b3dd39.js.map133138657300769240 0
+61E:\github projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133138670359812354 0
+67E:\github projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133138670359882180 0
+48E:\github projects\goit-js-hw-09\dist\index.html133138670359792411 0
 61E:\github projects\goit-js-hw-09\.github\workflows\deploy.yml133135373378554885 0

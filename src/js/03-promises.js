@@ -27,7 +27,7 @@ function formSubmitHandler(event) {
   let times = amount.value;
   let sumOfDelay = Number.parseInt(delay.value);
   
-  timerId = setInterval(() => {
+  const timerId = setInterval(() => {
     
     if (times === 1) {
       clearInterval(timerId);

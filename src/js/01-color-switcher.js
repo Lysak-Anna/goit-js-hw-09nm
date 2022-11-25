@@ -2,9 +2,11 @@
 const startButton = document.querySelector('[data-start]');
 const stopButton = document.querySelector('[data-stop]');
 const body = document.querySelector('body');
-
+let timerId = null;
 startButton.addEventListener('click', startButtonClickHandler);
 stopButton.addEventListener('click', stopButtonClickHandler);
+
+
 
 function startButtonClickHandler(event) {
     
